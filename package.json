@@ -1,0 +1,30 @@
+{
+  "name": "appserver",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "cryptr": "^4.0.2",
+    "csv-parser": "^2.3.2",
+    "dateformat": "^3.0.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "get-uid": "^1.0.1",
+    "http-errors": "~1.6.3",
+    "http-proxy-middleware": "^0.20.0",
+    "image-size": "^0.8.3",
+    "mongodb": "^3.2.7",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1",
+    "nodemailer": "^6.3.1",
+    "pug": "2.0.0-beta11",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "rotating-file-stream": "^1.4.1",
+    "shortid": "^2.2.14",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^3.9.0"
+  }
+}
